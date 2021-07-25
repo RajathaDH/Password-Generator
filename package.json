@@ -1,0 +1,24 @@
+{
+  "name": "rd-pass-gen",
+  "version": "1.0.0",
+  "description": "A command line tool to generate passwords.",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajathaDH/Password-Generator.git"
+  },
+  "author": "Rajatha DH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RajathaDH/Password-Generator/issues"
+  },
+  "homepage": "https://github.com/RajathaDH/Password-Generator#readme",
+  "dependencies": {
+    "commander": "^8.0.0"
+  }
+}
